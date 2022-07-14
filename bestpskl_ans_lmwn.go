@@ -24,5 +24,5 @@ func main() {
 	sd, _ := base64.StdEncoding.DecodeString(secret)
 	str := string(sd)
 	ans := reverse(str)
-	fmt.Println(ans)
+	fmt.Println(ans) // Join:us:at:LINE:MAN:Wongnai
 }
